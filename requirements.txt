@@ -2,3 +2,4 @@ streamlit
 pandas
 prince
 matplotlib
+xlsxwriter
